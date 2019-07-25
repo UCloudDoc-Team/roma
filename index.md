@@ -6,4 +6,4 @@
 
 **目录**
 
-![nsort dsort msort](/images/indexmenu\>/network/roma#1)
+{{indexmenu>:network:roma#1 | nsort dsort msort}} 
