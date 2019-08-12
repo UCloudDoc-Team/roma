@@ -9,7 +9,7 @@
 
 ## 步骤一、私有网络接入
 
-:\!:**<span class="underline">此步骤需在 UCloud 控制台操作</span>**
+\!**<span class="underline">此步骤需在 UCloud 控制台操作</span>**
 
 从 UCloud 控制台进入罗马，点击“**私有网络接入**”。
 
