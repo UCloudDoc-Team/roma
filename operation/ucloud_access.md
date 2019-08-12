@@ -6,14 +6,14 @@
 
 ## 步骤一、私有网络接入
 
-:\!:**<span class="underline">此步骤需在 UCloud 控制台操作</span>**
+\!**<span class="underline">此步骤需在 UCloud 控制台操作</span>**
 
 从 UCloud 控制台进入罗马，点击“**私有网络接入**”。
 
 ![](/images/operation/私有网络接入.png)
 
 进入“**私有网络接入**”页面，依次选择“**UCloud**” \> “**地域**” \>
-需要接入的“**私有网络**”，调整“**接入带宽**”，最后进行购买即可。
+需要接入的“**私有网络**”，最后进行购买即可。
 
 ![](/images/operation/ucloud_access/ucloud私有网络接入.png)
 
