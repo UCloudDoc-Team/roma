@@ -13,6 +13,14 @@
 
 ![](/images/operation/ali_auto_access/step1.png)
 
-如果出现下图所示的情况，请继续选择“**地域**” \> 需要接入的“**私有网络**”，调整“**接入带宽**”，最后进行购买即可。
+如果出现下图所示的情况，请继续选择“**地域**” \> 需要接入的“**私有网络**”。
 
 ![](/images/operation/ali_auto_access/step2.png)
+
+进入任意已接入的vpc，选择需要开通的线路，点击“开通”
+
+![](/images/operation/开通.png)
+
+选择调整“**接入带宽**”，最后进行购买即可。
+
+![](/images/operation/开通.png)
