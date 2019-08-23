@@ -23,4 +23,4 @@
 
 选择调整“**接入带宽**”，最后进行购买即可。
 
-![](/images/operation/开通.png)
+![](/images/operation/开通支付.png)
