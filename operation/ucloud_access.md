@@ -27,3 +27,13 @@
 
 **注：由于手动接入阿里云 VPC 到罗马时，操作较为繁琐，且对其他 VPC 的接入及撤消流程都制造了额外的操作步骤，因此，接入阿里云 VPC
 到罗马时，强烈建议使用 [](/network/roma/operation/ali_auto_access)**
+
+## 步骤三、选择开通线路
+
+进入任意已接入的vpc，选择需要开通的线路，点击“**开通**”
+
+![](/images/operation/开通.png)
+
+选择带宽，支付后即可开通。
+
+![](/images/operation/开通支付.png)
