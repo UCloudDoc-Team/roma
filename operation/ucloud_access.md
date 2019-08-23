@@ -34,6 +34,6 @@
 
 ![](/images/operation/开通.png)
 
-选择带宽，支付后即可开通。
+调整带宽，支付后即可开通。
 
 ![](/images/operation/开通支付.png)
