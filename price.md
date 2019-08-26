@@ -86,7 +86,7 @@ UCloud各地域接入费用为0
 | UCloud曼谷-UCloud华盛顿    | 610	    | 549	    | 427	    | 366    |
 | UCloud曼谷-UCloud法兰克福    | 980	    | 882	    | 686	    | 588    |
 | UCloud曼谷-UCloud莫斯科    | 750	    | 675	    | 525	    | 450    |
-| UCloud曼谷-UCloud圣保罗    | 1530	    | 1377	    |	1071	    | 918    |
+| UCloud曼谷-UCloud圣保罗    | 1530	    | 1377	    | 1071	    | 918    |
 | UCloud曼谷-UCloud拉各斯    | 2290	    | 2061	    | 1603	    | 1374    |
 | UCloud香港-UCloud洛杉矶   | 170      | 153      | 119        | 102          |
 | UCloud香港-UCloud法兰克福  | 840      | 756      | 588        | 504          |
