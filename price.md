@@ -76,6 +76,18 @@ UCloud各地域接入费用为0
 | UCloud新加坡-UCloud莫斯科    | 560      | 504      | 392        | 336          |
 | UCloud新加坡-UCloud圣保罗    | 1340      | 1206      | 938        | 804          |
 | UCloud新加坡-UCloud拉各斯    | 1640      |	1476      |	1148      |	984      |
+| UCloud曼谷-UCloud雅加达    |560    |	504    |	392    |	336    |
+| UCloud曼谷-UCloud首尔    |2200    |	1980    |	1540    |	1320    |
+| UCloud曼谷-UCloud东京    |1450	    |1305	    |1015	    |870    |
+| UCloud曼谷-UCloud香港    |610	    |549	    |427	    |366    |
+| UCloud曼谷-UCloud孟买    |380	    |342	    |266	    |228    |
+| UCloud曼谷-UCloud迪拜    |1820	    |1638	    |1274	    |1092    |
+| UCloud曼谷-UCloud洛杉矶    |500	    |450	    |350	    |300    |
+| UCloud曼谷-UCloud华盛顿    |610	    |549	    |427	    |366    |
+| UCloud曼谷-UCloud法兰克福    |980	    |882	    |686	    |588    |
+| UCloud曼谷-UCloud莫斯科    |750	    |675	    |525	    |450    |
+| UCloud曼谷-UCloud圣保罗    |1530    |	1377    |	1071	    |918    |
+| UCloud曼谷-UCloud拉各斯    |2290	    |2061	    |1603	    |1374    |
 | UCloud香港-UCloud洛杉矶   | 170      | 153      | 119        | 102          |
 | UCloud香港-UCloud法兰克福  | 840      | 756      | 588        | 504          |
 | UCloud香港-UCloud曼谷    | 610      | 549      | 427        | 366          |
@@ -97,11 +109,6 @@ UCloud各地域接入费用为0
 | UCloud法兰克福-UCloud迪拜  | 530      | 477      | 371        | 318          |
 | UCloud法兰克福-UCloud孟买  | 1030     | 927      | 721        | 618          |
 | UCloud法兰克福-UCloud圣保罗 | 1360     | 1224     | 952        | 816          |
-| UCloud曼谷-UCloud新加坡   | 190      | 171      | 133        | 114          |
-| UCloud曼谷-UCloud东京    | 1310     | 1179     | 917        | 786          |
-| UCloud曼谷-UCloud迪拜    | 1320     | 1188     | 924        | 792          |
-| UCloud曼谷-UCloud孟买    | 380      | 342      | 266        | 228          |
-| UCloud曼谷-UCloud圣保罗   | 1680     | 1512     | 1176       | 1008         |
 | UCloud东京-UCloud迪拜    | 1370     | 1233     | 959        | 822          |
 | UCloud东京-UCloud孟买    | 1680     | 1512     | 1176       | 1008         |
 | UCloud东京-UCloud圣保罗   | 2060     | 1854     | 1442       | 1236         |
