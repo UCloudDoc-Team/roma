@@ -75,10 +75,10 @@ UCloud各地域接入费用为0
 | UCloud新加坡-UCloud法兰克福    | 800     | 720      | 560        | 480          |
 | UCloud新加坡-UCloud莫斯科    | 560     | 504      | 392        | 336          |
 | UCloud新加坡-UCloud圣保罗    | 1340     | 1206      | 938        | 804          |
-| UCloud新加坡-UCloud拉各斯    | 1640     |	1476      |	1148      |	984      |
-| UCloud曼谷-UCloud雅加达    | 560    |	504    | 392    |	336    |
-| UCloud曼谷-UCloud首尔    | 2200    |	1980    |	1540    |	1320    |
-| UCloud曼谷-UCloud东京    | 1450	    | 1305	    |1015	    |870    |
+| UCloud新加坡-UCloud拉各斯   | 1640     | 1476      | 1148      | 984      |
+| UCloud曼谷-UCloud雅加达    | 560    | 504    | 392    | 336    |
+| UCloud曼谷-UCloud首尔    | 2200    | 1980    | 1540    | 1320    |
+| UCloud曼谷-UCloud东京    | 1450	    | 1305	    | 1015	    | 870    |
 | UCloud曼谷-UCloud香港    | 610	    | 549	    | 427	    | 366    |
 | UCloud曼谷-UCloud孟买    | 380	    | 342	    | 266	    | 228    |
 | UCloud曼谷-UCloud迪拜    | 1820	    | 1638	    | 1274	    | 1092    |
@@ -86,7 +86,7 @@ UCloud各地域接入费用为0
 | UCloud曼谷-UCloud华盛顿    | 610	    | 549	    | 427	    | 366    |
 | UCloud曼谷-UCloud法兰克福    | 980	    | 882	    | 686	    | 588    |
 | UCloud曼谷-UCloud莫斯科    | 750	    | 675	    | 525	    | 450    |
-| UCloud曼谷-UCloud圣保罗    | 1530    |	1377    |	1071	    | 918    |
+| UCloud曼谷-UCloud圣保罗    | 1530	    | 1377	    |	1071	    | 918    |
 | UCloud曼谷-UCloud拉各斯    | 2290	    | 2061	    | 1603	    | 1374    |
 | UCloud香港-UCloud洛杉矶   | 170      | 153      | 119        | 102          |
 | UCloud香港-UCloud法兰克福  | 840      | 756      | 588        | 504          |
