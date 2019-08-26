@@ -88,31 +88,31 @@ UCloud各地域接入费用为0
 | UCloud曼谷-UCloud莫斯科    | 750	    | 675	    | 525	    | 450    |
 | UCloud曼谷-UCloud圣保罗    | 1530	    | 1377	    | 1071	    | 918    |
 | UCloud曼谷-UCloud拉各斯    | 2290	    | 2061	    | 1603	    | 1374    |
-| UCloud雅加达-UCloud首尔    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud东京    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud台北    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud香港    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud孟买    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud迪拜    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud洛杉矶    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud华盛顿    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud法兰克福    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud伦敦    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud莫斯科    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud圣保罗    | 	    | 	    | 	    |     |
-| UCloud雅加达-UCloud拉各斯    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud东京    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud台北    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud香港    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud孟买    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud迪拜    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud洛杉矶    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud华盛顿    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud法兰克福    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud伦敦    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud莫斯科    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud圣保罗    | 	    | 	    | 	    |     |
-| UCloud首尔-UCloud拉各斯    | 	    | 	    | 	    |     |
+| UCloud雅加达-UCloud首尔    | 2100	    | 1890	    | 1470	    | 1260    |
+| UCloud雅加达-UCloud东京    | 1450	    | 1305	    | 1015	    | 870    |
+| UCloud雅加达-UCloud台北    | 890	    | 801	    | 623	    | 534    |
+| UCloud雅加达-UCloud香港    | 520	    | 468	    | 364	    | 312    |
+| UCloud雅加达-UCloud孟买    | 560	    | 504	    | 392	    | 336    |
+| UCloud雅加达-UCloud迪拜    | 1960	    | 1764	    | 1372	    | 1176    |
+| UCloud雅加达-UCloud洛杉矶    | 940	    | 846	    | 658	    | 564    |
+| UCloud雅加达-UCloud华盛顿    | 940	    | 846	    | 658	    | 564    |
+| UCloud雅加达-UCloud法兰克福   | 1170	    | 1053	    | 819	    | 702    |
+| UCloud雅加达-UCloud伦敦    | 1220	    | 1098	    | 854	    | 732    |
+| UCloud雅加达-UCloud莫斯科    | 940	    | 846	    | 658	    | 564    |
+| UCloud雅加达-UCloud圣保罗    | 1710	    | 1539	    | 1197	    | 1026    |
+| UCloud雅加达-UCloud拉各斯    | 2200	    | 1980	    | 1540	    | 1320    |
+| UCloud首尔-UCloud东京    | 840	    | 756	    | 588	    | 504    |
+| UCloud首尔-UCloud台北    | 1960	    | 1764	    | 1372	    | 1176    |
+| UCloud首尔-UCloud香港    | 1590	    | 1431	    | 1113	    | 954    |
+| UCloud首尔-UCloud孟买    | 2200	    | 1980	    | 1540	    | 1320    |
+| UCloud首尔-UCloud迪拜    | 2060	    | 1854	    | 1442	    | 1236    |
+| UCloud首尔-UCloud洛杉矶    | 1030	    | 927	    | 721	    | 618    |
+| UCloud首尔-UCloud华盛顿    | 1140	    | 1026	    | 798	    | 684    |
+| UCloud首尔-UCloud法兰克福    | 1310	    | 1179	    | 917	    | 786    |
+| UCloud首尔-UCloud伦敦    | 1450	    | 1305	    | 1015	    | 870    |
+| UCloud首尔-UCloud莫斯科    | 1360	    | 1224	    | 952	    | 816    |
+| UCloud首尔-UCloud圣保罗    | 2060	    | 1854	    | 1442	    | 1236    |
+| UCloud首尔-UCloud拉各斯    | 2150	    | 1935	    | 1505	    | 1290    |
 | UCloud香港-UCloud洛杉矶   | 170      | 153      | 119        | 102          |
 | UCloud香港-UCloud法兰克福  | 840      | 756      | 588        | 504          |
 | UCloud香港-UCloud曼谷    | 610      | 549      | 427        | 366          |
