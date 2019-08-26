@@ -67,9 +67,9 @@ UCloud各地域接入费用为0
 | UCloud新加坡-UCloud雅加达    | 380      | 342      | 266        | 228          |
 | UCloud新加坡-UCloud首尔    | 1730      | 1557      | 1211        | 1038          |
 | UCloud新加坡-UCloud东京    | 1080      |	972      |	756        |	648          |
-| UCloud新加坡-UCloud香港    | 140      |	126      |	98        |	84          |
-| UCloud新加坡-UCloud孟买    | 190      |	171      |	133        |	114          |
-| UCloud新加坡-UCloud迪拜    | 1540      |	 1386      |	1078        |	 924          |
+| UCloud新加坡-UCloud香港    | 140      |126      |	98        |	84          |
+| UCloud新加坡-UCloud孟买    | 190      |171      |	133        |	114          |
+| UCloud新加坡-UCloud迪拜    | 1540      |	1386      |	1078        |	 924          |
 | UCloud新加坡-UCloud洛杉矶    | 470      |	 423       |	329        |	282          |
 | UCloud新加坡-UCloud华盛顿    | 580      |  522       |	406        |	348          |
 | UCloud新加坡-UCloud法兰克福    | 800      | 720      | 560        | 480          |
