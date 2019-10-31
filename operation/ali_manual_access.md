@@ -5,7 +5,7 @@
 *即阿里云私有网络接入罗马*
 
 **注：由于手动接入阿里云 VPC 到罗马时，操作较为繁琐，且对其他 VPC 的接入及撤消流程都制造了额外的操作步骤，因此，接入阿里云 VPC
-到罗马时，强烈建议使用 [](/network/roma/operation/ali_auto_access)**
+到罗马时，强烈建议使用 [VPC（阿里云）自动接入](/network/roma/operation/ali_auto_access)**
 
 ## 步骤一、私有网络接入
 
@@ -108,7 +108,7 @@ ID**”（如何获取这些信息，请看下方备注），填写完毕后点�
 
 ### 5.2 查看已接入罗马的VPC的子网网段
 
-在UCloud平台中查看已接入罗马的所有 VPC 的子网网段。 ![](/network/roma/operation/私有网络列表.png)
+在UCloud平台中查看已接入罗马的所有 VPC 的子网网段。 ![](/images/operation/私有网络列表.png)
 
 注：若暂无 VPC 接入罗马，则不需要进行后面的5.3的操作，若有多个 VPC 或单个 VPC 有多个子网网段，请重复5.3的操作。
 
@@ -136,4 +136,4 @@ VPC 占用的网段不同，填入的内容不同)，“**下一跳类型**”�
 ## 步骤六、完成
 
 以上即为将阿里云私有网络手动接入罗马的操作步骤，由于操作较为繁琐，**强烈建议使用
-[](/network/roma/operation/ali_auto_access)**。
+[VPC（阿里云）自动接入](/network/roma/operation/ali_auto_access)**。
