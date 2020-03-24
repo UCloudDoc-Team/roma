@@ -5,7 +5,7 @@
 *即阿里云私有网络接入罗马*
 
 **注：由于手动接入阿里云 VPC 到罗马时，操作较为繁琐，且对其他 VPC 的接入及撤消流程都制造了额外的操作步骤，因此，接入阿里云 VPC
-到罗马时，强烈建议使用 [VPC（阿里云）自动接入](/network/roma/operation/ali_auto_access)**
+到罗马时，强烈建议使用 [VPC（阿里云）自动接入](roma/operation/ali_auto_access)**
 
 ## 步骤一、私有网络接入
 
@@ -136,4 +136,4 @@ VPC 占用的网段不同，填入的内容不同)，“**下一跳类型**”�
 ## 步骤六、完成
 
 以上即为将阿里云私有网络手动接入罗马的操作步骤，由于操作较为繁琐，**强烈建议使用
-[VPC（阿里云）自动接入](/network/roma/operation/ali_auto_access)**。
+[VPC（阿里云）自动接入](/roma/operation/ali_auto_access)**。
