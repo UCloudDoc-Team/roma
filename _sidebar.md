@@ -13,7 +13,4 @@
     * [VPC（UCloud）撤消接入](/roma/operation/ucloud_cancel_access)
     * [VPC（阿里云）撤消接入](/roma/operation/ali_cancel_access)
 * [计费说明](/roma/charge)
-* [产品价格](/roma/price)      
-    
-    
-        
+* [产品价格](/roma/price)           
