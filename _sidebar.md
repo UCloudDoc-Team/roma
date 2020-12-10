@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__roma"> 全球网络加速 罗马 Rome</div>
 
 * [概览](/roma/README)
 * 产品简介
